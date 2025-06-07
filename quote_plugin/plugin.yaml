@@ -1,0 +1,8 @@
+id: com.example.quote
+version: 0.1.0
+license: MIT
+modules:
+  - quotebot
+main_class: QuoteBot
+extra_dependencies:
+  - jinja2
